@@ -1,0 +1,33 @@
+/* CSS RESET */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.nav-link li{
+    display: inline;
+}
+
+.cover{
+    width: 100%;
+    
+}
+.dot-nav-links li{
+    display: inline;
+}
+
+.footer{
+    display: flex;
+}
